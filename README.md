@@ -1,1 +1,3 @@
 # RegresionPolinomial
+
+La regresión polinomial es una forma de regresión lineal en la que la relación entre la variable independiente x y la variable dependiente y es modelada como un polinomio de grado n en x. Aunque la regresión polinómica se ajusta a un modelo no lineal a los datos, como un problema de estimación estadística, es lineal, en el sentido de que la función de regresión E (y | x) es lineal en los parámetros desconocidos que se calculan a partir de los datos. Por esta razón, la regresión polinomial se considera un caso especial de regresión lineal múltiple. El procedimiento está diseñado para construir un modelo estadístico que describa el impacto de un solo factor cuantitativo x en una variable dependiente y.
